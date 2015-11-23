@@ -1,4 +1,4 @@
-## Make a Red Peak flag with ggplot2
+# Draws the Red Peak flag and saves as png file
 
 library(ggplot2)
 
